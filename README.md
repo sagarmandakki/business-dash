@@ -16,8 +16,3 @@ You will also see any lint errors in the console.
 
 Launches the Cypress test runner\
 Click on common_spec file to see it in action
-
-## `Hosted on Github pages`
-
-Head over to `https://sagar.mandakki.github.io/business-dash` for the demo.
-
